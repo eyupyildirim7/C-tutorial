@@ -1,0 +1,7 @@
+C:\Users\MrAlderson\source\repos\maths_methotds\maths_methotds\bin\Debug\maths_methotds.exe.config
+C:\Users\MrAlderson\source\repos\maths_methotds\maths_methotds\bin\Debug\maths_methotds.exe
+C:\Users\MrAlderson\source\repos\maths_methotds\maths_methotds\bin\Debug\maths_methotds.pdb
+C:\Users\MrAlderson\source\repos\maths_methotds\maths_methotds\obj\Debug\maths_methotds.csproj.AssemblyReference.cache
+C:\Users\MrAlderson\source\repos\maths_methotds\maths_methotds\obj\Debug\maths_methotds.csproj.CoreCompileInputs.cache
+C:\Users\MrAlderson\source\repos\maths_methotds\maths_methotds\obj\Debug\maths_methotds.exe
+C:\Users\MrAlderson\source\repos\maths_methotds\maths_methotds\obj\Debug\maths_methotds.pdb

@@ -1,0 +1,7 @@
+C:\Users\MrAlderson\source\repos\ture_or_false\ture_or_false\bin\Debug\ture_or_false.exe.config
+C:\Users\MrAlderson\source\repos\ture_or_false\ture_or_false\bin\Debug\ture_or_false.exe
+C:\Users\MrAlderson\source\repos\ture_or_false\ture_or_false\bin\Debug\ture_or_false.pdb
+C:\Users\MrAlderson\source\repos\ture_or_false\ture_or_false\obj\Debug\ture_or_false.csproj.AssemblyReference.cache
+C:\Users\MrAlderson\source\repos\ture_or_false\ture_or_false\obj\Debug\ture_or_false.csproj.CoreCompileInputs.cache
+C:\Users\MrAlderson\source\repos\ture_or_false\ture_or_false\obj\Debug\ture_or_false.exe
+C:\Users\MrAlderson\source\repos\ture_or_false\ture_or_false\obj\Debug\ture_or_false.pdb

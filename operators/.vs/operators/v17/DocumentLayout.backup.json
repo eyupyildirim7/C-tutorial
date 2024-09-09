@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MrAlderson\\source\\repos\\operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B26F9B-04AA-4E9A-81EA-62BAC14144D2}|operators\\operators.csproj|c:\\users\\mralderson\\source\\repos\\operators\\operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B26F9B-04AA-4E9A-81EA-62BAC14144D2}|operators\\operators.csproj|solutionrelative:operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MrAlderson\\source\\repos\\operators\\operators\\Program.cs",
+              "RelativeDocumentMoniker": "operators\\Program.cs",
+              "ToolTip": "C:\\Users\\MrAlderson\\source\\repos\\operators\\operators\\Program.cs*",
+              "RelativeToolTip": "operators\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:12:43.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

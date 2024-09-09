@@ -1,0 +1,7 @@
+C:\Users\MrAlderson\source\repos\condısınalıons_if_else\condısınalıons_if_else\bin\Debug\condısınalıons_if_else.exe.config
+C:\Users\MrAlderson\source\repos\condısınalıons_if_else\condısınalıons_if_else\bin\Debug\condısınalıons_if_else.exe
+C:\Users\MrAlderson\source\repos\condısınalıons_if_else\condısınalıons_if_else\bin\Debug\condısınalıons_if_else.pdb
+C:\Users\MrAlderson\source\repos\condısınalıons_if_else\condısınalıons_if_else\obj\Debug\condısınalıons_if_else.csproj.AssemblyReference.cache
+C:\Users\MrAlderson\source\repos\condısınalıons_if_else\condısınalıons_if_else\obj\Debug\condısınalıons_if_else.csproj.CoreCompileInputs.cache
+C:\Users\MrAlderson\source\repos\condısınalıons_if_else\condısınalıons_if_else\obj\Debug\condısınalıons_if_else.exe
+C:\Users\MrAlderson\source\repos\condısınalıons_if_else\condısınalıons_if_else\obj\Debug\condısınalıons_if_else.pdb
