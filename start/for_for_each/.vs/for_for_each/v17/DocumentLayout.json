@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\for_for_each\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948FA1B4-698D-4013-862F-DF75B302F2F3}|for_for_each\\for_for_each.csproj|c:\\users\\mralderson\\desktop\\c-tutorial\\for_for_each\\for_for_each\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948FA1B4-698D-4013-862F-DF75B302F2F3}|for_for_each\\for_for_each.csproj|solutionrelative:for_for_each\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\for_for_each\\for_for_each\\Program.cs",
+              "RelativeDocumentMoniker": "for_for_each\\Program.cs",
+              "ToolTip": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\for_for_each\\for_for_each\\Program.cs",
+              "RelativeToolTip": "for_for_each\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:52:54.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

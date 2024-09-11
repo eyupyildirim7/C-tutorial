@@ -1,0 +1,7 @@
+C:\Users\MrAlderson\Desktop\C-tutorial\strıng_meth\strıng_meth\obj\Debug\strıng_meth.csproj.AssemblyReference.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\strıng_meth\strıng_meth\obj\Debug\strıng_meth.csproj.CoreCompileInputs.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\strıng_meth\strıng_meth\bin\Debug\strıng_meth.exe.config
+C:\Users\MrAlderson\Desktop\C-tutorial\strıng_meth\strıng_meth\bin\Debug\strıng_meth.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\strıng_meth\strıng_meth\bin\Debug\strıng_meth.pdb
+C:\Users\MrAlderson\Desktop\C-tutorial\strıng_meth\strıng_meth\obj\Debug\strıng_meth.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\strıng_meth\strıng_meth\obj\Debug\strıng_meth.pdb

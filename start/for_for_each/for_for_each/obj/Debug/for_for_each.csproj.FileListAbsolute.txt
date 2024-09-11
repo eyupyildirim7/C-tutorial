@@ -1,0 +1,7 @@
+C:\Users\MrAlderson\Desktop\C-tutorial\for_for_each\for_for_each\obj\Debug\for_for_each.csproj.AssemblyReference.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\for_for_each\for_for_each\obj\Debug\for_for_each.csproj.CoreCompileInputs.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\for_for_each\for_for_each\bin\Debug\for_for_each.exe.config
+C:\Users\MrAlderson\Desktop\C-tutorial\for_for_each\for_for_each\bin\Debug\for_for_each.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\for_for_each\for_for_each\bin\Debug\for_for_each.pdb
+C:\Users\MrAlderson\Desktop\C-tutorial\for_for_each\for_for_each\obj\Debug\for_for_each.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\for_for_each\for_for_each\obj\Debug\for_for_each.pdb

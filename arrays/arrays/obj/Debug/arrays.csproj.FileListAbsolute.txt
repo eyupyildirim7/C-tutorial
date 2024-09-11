@@ -1,7 +1,0 @@
-C:\Users\MrAlderson\Desktop\csharp-dersleri\arrays\arrays\bin\Debug\arrays.exe.config
-C:\Users\MrAlderson\Desktop\csharp-dersleri\arrays\arrays\bin\Debug\arrays.exe
-C:\Users\MrAlderson\Desktop\csharp-dersleri\arrays\arrays\bin\Debug\arrays.pdb
-C:\Users\MrAlderson\Desktop\csharp-dersleri\arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
-C:\Users\MrAlderson\Desktop\csharp-dersleri\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
-C:\Users\MrAlderson\Desktop\csharp-dersleri\arrays\arrays\obj\Debug\arrays.exe
-C:\Users\MrAlderson\Desktop\csharp-dersleri\arrays\arrays\obj\Debug\arrays.pdb

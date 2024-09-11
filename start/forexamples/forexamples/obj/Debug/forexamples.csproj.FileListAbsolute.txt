@@ -1,0 +1,7 @@
+C:\Users\MrAlderson\Desktop\C-tutorial\forexamples\forexamples\bin\Debug\forexamples.exe.config
+C:\Users\MrAlderson\Desktop\C-tutorial\forexamples\forexamples\bin\Debug\forexamples.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\forexamples\forexamples\bin\Debug\forexamples.pdb
+C:\Users\MrAlderson\Desktop\C-tutorial\forexamples\forexamples\obj\Debug\forexamples.csproj.AssemblyReference.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\forexamples\forexamples\obj\Debug\forexamples.csproj.CoreCompileInputs.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\forexamples\forexamples\obj\Debug\forexamples.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\forexamples\forexamples\obj\Debug\forexamples.pdb
