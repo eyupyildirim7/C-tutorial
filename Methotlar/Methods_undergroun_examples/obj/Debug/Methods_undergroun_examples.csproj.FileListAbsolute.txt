@@ -1,0 +1,7 @@
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\Methods_undergroun_examples\bin\Debug\Methods_undergroun_examples.exe.config
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\Methods_undergroun_examples\bin\Debug\Methods_undergroun_examples.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\Methods_undergroun_examples\bin\Debug\Methods_undergroun_examples.pdb
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\Methods_undergroun_examples\obj\Debug\Methods_undergroun_examples.csproj.AssemblyReference.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\Methods_undergroun_examples\obj\Debug\Methods_undergroun_examples.csproj.CoreCompileInputs.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\Methods_undergroun_examples\obj\Debug\Methods_undergroun_examples.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\Methods_undergroun_examples\obj\Debug\Methods_undergroun_examples.pdb

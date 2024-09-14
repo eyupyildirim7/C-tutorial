@@ -1,0 +1,7 @@
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\default_values\bin\Debug\default_values.exe.config
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\default_values\bin\Debug\default_values.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\default_values\bin\Debug\default_values.pdb
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\default_values\obj\Debug\default_values.csproj.AssemblyReference.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\default_values\obj\Debug\default_values.csproj.CoreCompileInputs.cache
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\default_values\obj\Debug\default_values.exe
+C:\Users\MrAlderson\Desktop\C-tutorial\Methotlar\default_values\obj\Debug\default_values.pdb

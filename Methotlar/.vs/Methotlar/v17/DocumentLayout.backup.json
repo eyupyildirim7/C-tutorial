@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\Methotlar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9391C472-14FE-46AD-A7E2-D13D9D18EA1B}|Methods_undergroun_examples\\Methods_undergroun_examples.csproj|c:\\users\\mralderson\\desktop\\c-tutorial\\methotlar\\methods_undergroun_examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9391C472-14FE-46AD-A7E2-D13D9D18EA1B}|Methods_undergroun_examples\\Methods_undergroun_examples.csproj|solutionrelative:methods_undergroun_examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E8CFA5-3084-4BBE-8FB1-5D5AEE7133EC}|default_values\\default_values.csproj|c:\\users\\mralderson\\desktop\\c-tutorial\\methotlar\\default_values\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E8CFA5-3084-4BBE-8FB1-5D5AEE7133EC}|default_values\\default_values.csproj|solutionrelative:default_values\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA98004A-4956-4D47-9B3B-9E3803EA333E}|Methotlar\\Methotlar.csproj|c:\\users\\mralderson\\desktop\\c-tutorial\\methotlar\\methotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA98004A-4956-4D47-9B3B-9E3803EA333E}|Methotlar\\Methotlar.csproj|solutionrelative:methotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\Methotlar\\Methods_undergroun_examples\\Program.cs",
+              "RelativeDocumentMoniker": "Methods_undergroun_examples\\Program.cs",
+              "ToolTip": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\Methotlar\\Methods_undergroun_examples\\Program.cs*",
+              "RelativeToolTip": "Methods_undergroun_examples\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:00:44.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\Methotlar\\default_values\\Program.cs",
+              "RelativeDocumentMoniker": "default_values\\Program.cs",
+              "ToolTip": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\Methotlar\\default_values\\Program.cs",
+              "RelativeToolTip": "default_values\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:48:54.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\Methotlar\\Methotlar\\Program.cs",
               "RelativeDocumentMoniker": "Methotlar\\Program.cs",
-              "ToolTip": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\Methotlar\\Methotlar\\Program.cs*",
-              "RelativeToolTip": "Methotlar\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MrAlderson\\Desktop\\C-tutorial\\Methotlar\\Methotlar\\Program.cs",
+              "RelativeToolTip": "Methotlar\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T14:48:42.214Z",
               "EditorCaption": ""
